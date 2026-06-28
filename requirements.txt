@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+docx2txt
+pypdf
+langchain-groq
+langgraph
+supabase
