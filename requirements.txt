@@ -1,6 +1,6 @@
 python-dotenv
 streamlit
-docx2txt
+python-docx
 pypdf
 langchain-groq
 langgraph
