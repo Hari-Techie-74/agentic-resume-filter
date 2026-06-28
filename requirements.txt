@@ -5,3 +5,5 @@ pypdf
 langchain-groq
 langgraph
 supabase
+langchain-community
+sentence-transformers
