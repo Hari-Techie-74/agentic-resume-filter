@@ -7,3 +7,4 @@ langgraph
 supabase
 langchain-community
 sentence-transformers
+einops
